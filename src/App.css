@@ -1,0 +1,12 @@
+/* *::-webkit-scrollbar {
+  display: none;
+} */
+
+body {
+  box-sizing: border-box;
+  --slack-color: #3f0f40;
+}
+
+.app {
+  display: flex;
+}
